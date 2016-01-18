@@ -11,6 +11,8 @@ If the user enters the location, the app appends location to the url of openweat
 
 If location is not provided, the app will take the IP of the user, extract the location from the JSON and finds the weather of that location.
 
+I have also used promises to resolve the commands or reject errors.
+
 Usage: Download and run app.js with switch -l to pass location as a string. 
 Eg: node app.js -l "Mumbai"
 To access help, type node.js --help

@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A simple weather-app with NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VIshu Kamble",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.67.0",
+    "yargs": "^3.32.0"
+  }
+}
